@@ -17,7 +17,7 @@ Public Score / Metric : 0.76 - https://www.kaggle.com/code/barirahzainal/my-proj
 
 # 1. Background:
 
-Goal: The primary objective is to predict whether passengers survived or not based on various features such as age, gender, ticket class, etc.
+Goal: The primary objective is to predict whether passengers survived or not .
 
 Customer Pain Point: Predicting survival is critical to developing safety protocols for similar situations in the future, and historical data provides insights that can help in such predictions.
 
